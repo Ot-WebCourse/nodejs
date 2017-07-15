@@ -1,0 +1,23 @@
+{
+  "name": "@margo/node_proj",
+  "version": "1.0.0",
+  "description": "NodeJs Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ot-WebCourse/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Ot-WebCourse/nodejs/issues"
+  },
+  "homepage": "https://github.com/Ot-WebCourse/nodejs#readme"
+}
